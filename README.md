@@ -1,1 +1,0 @@
-# shiki-theme-thawedaline
